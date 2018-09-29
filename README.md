@@ -1,22 +1,31 @@
-Our Privacy Policy
+The privacy policy is designed to provide transparency into our privacy practices and principles, in a format that our guests can navigate, read and understand. We are dedicated to treating your personal information with care and respect.
 
-What information do we collect?
+Privacy Policy
 
-On our website and apps - we do not require your information and the site and apps can be accessed anonymously.
-Each web server collects information about visitors automatically. This data cannot be traced back to an individual.
-Our apps may ask to enter a name or email address for the purposes of submitting your high score, save your progress and achievement.
-We many also collect installation and usage information, but none of the information can be traced back to the individual.
+This privacy policy explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. We follow this privacy policy in accordance with local law in the places where we operate.
 
-How do we use this information?
+Types of Information We Collect
+We may receive and store any information that you provide when you interact with our applications. Some features or functionality of the services may be unavailable if you choose not to share certain information. We may use information you provide to communicate with you and to improve our services. We collect the following categories of information:
 
-The web server logs will be used for traffic analysis.
-The names you enter for the high score lists in our apps are used for that purpose only. You are free to enter any handle you wish.
+Registration information you provide when you create an account, including your first name and surname, country of residence, gender, date of birth, email address, username and password
+Transaction information you provide when you request information or purchase a product or service from us, whether on our sites or through our applications, including your postal address, telephone number and payment information
+Information you provide to us when you use our sites and applications, our applications on third-party sites or platforms such as social networking sites, or link your profile on a third-party site or platform with your registration account
+Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms or open emails we send
+How Information Is Used, Shared and Disclosed
+We don't sell, and generally don't disclose your Personal Information to third-parties without your consent.
+We may uses your information for the following purposes:
 
-Do we disclose or otherwise share information with third parties?
+Provide you with the products and services you request
+Contact you about promotional and marketing activities
+Provide customer support
+Optimize or improve our products, services and operations
+Security
+The security, integrity and confidentiality of your information are extremely important to us. We have implemented technical, administrative and physical security measures that are designed to protect guest information from unauthorized access, disclosure, use and modification.
 
-We do not sell, trade or otherwise transfer any personally identifiable information to third parties.
-This does not include third parties who assist us in operating our site or apps so long as these parties agree to keep this information confidential.
+However, we cannot guarantee its absolute security. While no security system is completely secure, Crazy Game Develop and its third-party partners and vendors take appropriate security measures to protect against unauthorized access or disclosure of the information collected by us.
 
-Contact us
+Changes to this Privacy Policy
+We may update this Privacy Policy to reflect changes to information practices. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent.
 
-If you have any questions about this privacy policy - please do not hesitate to contact us at crazygame.dever@gmail.com
+Contact Us
+If you have questions or comments regarding how Our Company protects your information or this Privacy Policy, please contact us at: crazygame.dever@gmail.com
