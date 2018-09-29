@@ -1,3 +1,5 @@
+Our Privacy Policy
+
 The privacy policy is designed to provide transparency into our privacy practices and principles, in a format that our guests can navigate, read and understand. We are dedicated to treating your personal information with care and respect.
 
 Privacy Policy
